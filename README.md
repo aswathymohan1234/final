@@ -1,0 +1,1 @@
+Deploy the eight classifers
